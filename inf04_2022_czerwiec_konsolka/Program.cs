@@ -12,3 +12,9 @@ void WczytajTablice()
     for (int i = 0; i < 10; i++) tablica[i] = int.Parse(Console.ReadLine());
 }
 int ZnajdzMax(int start) { return tablica.ToList().GetRange(start, tablica.Length - start).Max(); }
+/********************************************************
+* nazwa funkcji: WcztajTablice, ZnajdzMax
+* parametry wejściowe: start - int
+* wartość zwracana: wartosc maksymalna w tablicy
+* autor: 69420213769
+* ****************************************************/
