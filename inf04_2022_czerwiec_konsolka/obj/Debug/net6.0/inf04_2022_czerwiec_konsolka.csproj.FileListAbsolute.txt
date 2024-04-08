@@ -1,0 +1,14 @@
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\bin\Debug\net6.0\inf04_2022_czerwiec_konsolka.exe
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\bin\Debug\net6.0\inf04_2022_czerwiec_konsolka.deps.json
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\bin\Debug\net6.0\inf04_2022_czerwiec_konsolka.runtimeconfig.json
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\bin\Debug\net6.0\inf04_2022_czerwiec_konsolka.dll
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\bin\Debug\net6.0\inf04_2022_czerwiec_konsolka.pdb
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.AssemblyInfoInputs.cache
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.AssemblyInfo.cs
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.dll
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\refint\inf04_2022_czerwiec_konsolka.dll
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.pdb
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\inf04_2022_czerwiec_konsolka.genruntimeconfig.cache
+C:\Users\Egzamin\Source\Repos\inf04_2022_czerwiec_konsolka\inf04_2022_czerwiec_konsolka\obj\Debug\net6.0\ref\inf04_2022_czerwiec_konsolka.dll
